@@ -1,3 +1,5 @@
+## Case and keys design ##
+
 <img width="294" height="353" alt="image" src="https://github.com/user-attachments/assets/a5780176-04bd-4e06-b359-fb139bc55409" />
 
 Made a layout for the caluclator, for deciding where keycaps go
