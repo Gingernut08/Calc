@@ -33,3 +33,13 @@ Designed a keycap and added the key layout onto the caps
 <img width="607" height="400" alt="image" src="https://github.com/user-attachments/assets/4d74416f-8f82-4c7d-bcb5-5b90c6ce622e" />
 
 Added cutout for display, with relief cut on the back
+
+## Wiring Design ##
+
+<img width="529" height="726" alt="image" src="https://github.com/user-attachments/assets/b40c21ac-2e35-4b97-b8e7-fc18c0020c8f" />
+
+Designed kay matrix
+
+<img width="1134" height="820" alt="image" src="https://github.com/user-attachments/assets/cc78f153-e884-4cb9-bc6f-32c6b93faefb" />
+
+Connected key matrix to the MCU as well as the OLED pinout
