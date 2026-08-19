@@ -1,7 +1,8 @@
 Basic scientific caluclator, powered by port on the back, 2.4" OLED B+W display with 30 mechanical keys.
-<img width="617" height="538" alt="image" src="https://github.com/user-attachments/assets/d9bff3eb-db7c-4ef3-a552-00d7f9b97a75" />
+<img width="696" height="545" alt="image" src="https://github.com/user-attachments/assets/4c78ccc1-4e2d-489e-845a-a0778cfc8585" />
 
-<img width="1051" height="699" alt="image" src="https://github.com/user-attachments/assets/65e8eec5-ca25-4c6c-860e-dc0a2737583d" />
+<img width="614" height="421" alt="image" src="https://github.com/user-attachments/assets/540cb50e-a176-4894-8fe6-3d900160155b" />
+
 
 
 Wiring by hand using this diagram:
