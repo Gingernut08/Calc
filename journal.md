@@ -1,4 +1,4 @@
-## Case and keys design ##
+<img width="1610" height="983" alt="image" src="https://github.com/user-attachments/assets/4120c8fc-e8b5-4475-bce3-45f1bec2cfb8" />## Case and keys design (approx 2.5 hrs) ##
 
 <img width="294" height="353" alt="image" src="https://github.com/user-attachments/assets/a5780176-04bd-4e06-b359-fb139bc55409" />
 
@@ -34,7 +34,7 @@ Designed a keycap and added the key layout onto the caps
 
 Added cutout for display, with relief cut on the back
 
-## Wiring Design ##
+## Wiring Design (approx 1 hrs) ##
 
 <img width="529" height="726" alt="image" src="https://github.com/user-attachments/assets/b40c21ac-2e35-4b97-b8e7-fc18c0020c8f" />
 
@@ -43,3 +43,6 @@ Designed kay matrix
 <img width="1134" height="820" alt="image" src="https://github.com/user-attachments/assets/cc78f153-e884-4cb9-bc6f-32c6b93faefb" />
 
 Connected key matrix to the MCU as well as the OLED pinout
+
+## Made firmware (approx 3 hrs) ##
+
