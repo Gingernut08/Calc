@@ -1,4 +1,4 @@
-<img width="1610" height="983" alt="image" src="https://github.com/user-attachments/assets/4120c8fc-e8b5-4475-bce3-45f1bec2cfb8" />## Case and keys design (approx 2.5 hrs) ##
+## Case and keys design (approx 2.5 hrs) ##
 
 <img width="294" height="353" alt="image" src="https://github.com/user-attachments/assets/a5780176-04bd-4e06-b359-fb139bc55409" />
 
